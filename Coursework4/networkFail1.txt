@@ -1,0 +1,12 @@
+Network
+Junctions
+start,50,50
+j1,200,200
+j2,120,280
+j2,200,280
+Junctions END
+Connectors
+start,j2
+j2,j1
+start,j1
+Connectors END
